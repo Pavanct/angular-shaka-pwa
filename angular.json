@@ -85,7 +85,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": [],
+            "scripts": ["../node_modules/shaka-player/dist/shaka-player.compiled.js"],
             "assets": [
               "src/favicon.ico",
               "src/assets"
